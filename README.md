@@ -8,7 +8,7 @@ O objetivo principal foi preparar uma base de dados (cenário de empresa/RH) par
 
 Para verificar a consistência dos dados transformados, foram criados visuais simples e cartões de KPI:
 
-![Dashboard de Validação](image_00e760.jpg)
+![Dashboard de Validação](relatorio_validacao_desafio_azure_mysql.png)
 
 ---
 
@@ -36,7 +36,7 @@ Abaixo estão listadas as etapas de transformação realizadas no Power Query:
 
 **Desafio:** *Mescle os nomes de departamentos e localização. Explique por que, neste caso, podemos apenas utilizar o mesclar e não o atribuir.*
 
-![Contexto da Pergunta](image_00e018.png)
+![Contexto da Pergunta](case_14_mesclar_x_atribuir.png)
 
 ### Resposta / Explicação
 
